@@ -1,45 +1,57 @@
-# 💫 About Me:
+# 💫 About Me
 
 ## 👨‍💻 About Me
 
-🔐 Interested in Cybersecurity, Networking, and Software Engineering
-🌱 Currently learning SOC Operations, SIEM, and Cloud Security
-🤝 Open to collaborate on Cybersecurity and Development  projects
-🐳 Familiar with Docker, Jenkins, Linux, and GitHub
-💻 Skilled in Java, Spring Boot, Networking, and System Administration
-📚 Passionate about hands-on labs and real-world technical projects
-⚡ Fun fact: I enjoy building cybersecurity labs and practicing new technologies
+* 🔐 Interested in Cybersecurity, SOC Operations, and Software Engineering
+* 🌱 Currently learning SIEM, Splunk, Cloud Security, and Backend Development
+* 💻 Skilled in Java, HTML, CSS, JavaScript, Linux, and Networking
+* 🛠 Familiar with Docker, Jenkins, GitHub, pfSense, Snort, and Wireshark
+* 🚀 Passionate about hands-on labs, system security, and real-world projects
+* 🤝 Open to collaboration on Cybersecurity and Development projects
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/seyha.peng.520)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/peng-seyha-725ba7298/)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+### 🔐 Cybersecurity
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+
+### 💻 Software Engineering
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-# 🚀 Current Focus:
+# 🚀 Current Focus
 
-* 🔐 Cybersecurity Labs
-* 🐳 DevOps Practice
-* 🌐 Networking & Linux
-* 💻 Backend Development
+* SOC Analyst Skills
+* SIEM & Log Analysis
+* Linux & Networking
+* Backend Development
+* DevOps & Docker
 
 ---
 
