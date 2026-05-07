@@ -1,13 +1,9 @@
-# 💫 About Me
+# 💫 Hi there! I'm Peng Seyha
 
 ## 👨‍💻 About Me
 
-* 🔐 Interested in Cybersecurity, SOC Operations, and Software Engineering
-* 🌱 Currently learning SIEM, Splunk, Cloud Security, and Backend Development
-* 💻 Skilled in Java, HTML, CSS, JavaScript, Linux, and Networking
-* 🛠 Familiar with Docker, Jenkins, GitHub, pfSense, Snort, and Wireshark
-* 🚀 Passionate about hands-on labs, system security, and real-world projects
-* 🤝 Open to collaboration on Cybersecurity and Development projects
+Welcome to my GitHub profile! 🚀
+Passionate about Cybersecurity and Software Engineering, always learning, building projects, and exploring new technologies.
 
 ---
 
