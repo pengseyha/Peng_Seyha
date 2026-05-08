@@ -45,8 +45,6 @@ Passionate about Cybersecurity and Software Engineering, always learning, buildi
 * SOC Analyst Skills
 * SIEM & Log Analysis
 * Linux & Networking
-* Backend Development
-* DevOps & Docker
 
 ---
 
